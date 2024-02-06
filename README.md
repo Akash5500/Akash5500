@@ -7,6 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Enthusiastic+to+Data+Science...!" alt="Typing SVG" /></a>
 </p>
 
+<!-- Favaroite section -->
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -57,3 +58,5 @@
   </p>
 </details>
 
+
+[![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash5500&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
