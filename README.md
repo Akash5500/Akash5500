@@ -62,9 +62,11 @@
 [![my github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash5500&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- GitHub Streak Stats -->
-## 📈 GitHub Streaks and Top Languages Stats
+### 📈 GitHub Streaks and Top Languages Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash5500&theme=merko&hide_border=false" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash5500&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
+  <div>
+    <img height="192px" alt="Akash5500's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash5500&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=Akash5500&theme=transparent&rank_icon=github&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+  </div>
 </p>
