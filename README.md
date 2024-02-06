@@ -65,6 +65,6 @@
 ## 📈 GitHub Streaks and Top Languages Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash5500&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash5500&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash5500&theme=merko&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash5500&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
